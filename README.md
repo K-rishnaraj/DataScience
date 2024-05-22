@@ -2,12 +2,13 @@
 
 ## Task Topic
 
-* You are a data science consultant. Your client company has a dataset and a bunch of business *
+** You are a data science consultant. Your client company has a dataset and a bunch of business **
 questions. Therefore, you are required to build an explanatory data analysis pipeline in a
 Jupyter Notebook to answer these business questions. Your designed and implemented pipeline
 will be submitted to your client company. 
 
 The notebook should contain the following information:
+
 . The business context. For example, who is your client company? What kind of data do
 they have? Why do they need you as a data scientist?
 . A data exploration discussion on the characteristics of the given dataset. For example,
